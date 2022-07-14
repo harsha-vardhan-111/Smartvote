@@ -1,3 +1,6 @@
+SmartVote is a E-Platflorm where people can vote to their interseted candidates throgh online.
+Admin can set up the elections,add the canditates,look at the results
+
 1.XAMPP
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
@@ -21,4 +24,3 @@
 username  Nurhodelta
 password  password
 
-Brought to you by: www.CampCodes.com
