@@ -1,5 +1,6 @@
-SmartVote is a E-Platflorm where people can vote to their interseted candidates throgh online.
-Admin can set up the elections,add the canditates,look at the results
+Smart Vote is a E-Platform where people can vote to their interested candidates through online.
+Admin can set up the elections, add the candidates, look at the results
+
 
 1.XAMPP
 
